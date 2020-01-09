@@ -1,0 +1,24 @@
+{
+  "name": "js-patterns",
+  "version": "1.0.0",
+  "description": "Project used to demostrate common JavaScript design patterns (creational, structural, behavioral)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckpp/js-patterns.git"
+  },
+  "keywords": [
+    "JS",
+    "JavaScript",
+    "Patterns"
+  ],
+  "author": "luckpp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckpp/js-patterns/issues"
+  },
+  "homepage": "https://github.com/luckpp/js-patterns#readme"
+}
